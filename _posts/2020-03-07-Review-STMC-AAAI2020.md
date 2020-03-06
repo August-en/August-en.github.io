@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Review STMC AAAI2020 				# 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2020-03-07 				# 时间
+author:     Wang						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - Sign Language
+---
 ## Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition
 
 来自中科大的文章，发表在AAAI2020上。
